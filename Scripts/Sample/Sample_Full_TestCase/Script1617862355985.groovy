@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 // Open Browser
 CustomKeywords.'com.smartfren.utility.BrowserUtility.openURL'('https://opensource-demo.orangehrmlive.com/')
 
-// Go to page click or call test case
+// Call test case
 WebUI.callTestCase(findTestCase('Test Cases/Sample/Sample_StandAlone/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 
