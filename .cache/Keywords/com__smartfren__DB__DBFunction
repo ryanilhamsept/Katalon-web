@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A1B7DF792E46476656AA77FE6D21FC69",
+  "keywordClasses": [
+    {
+      "name": "com.smartfren.DB.DBFunction",
+      "keywordMethods": [
+        {
+          "name": "GetPoints",
+          "parameters": [
+            {
+              "name": "MDN",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

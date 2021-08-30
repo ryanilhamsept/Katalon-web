@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "1C2F43E13D30F26DEB2AF57C6BD93CAF",
+  "keywordClasses": [
+    {
+      "name": "com.smartfren.validation.SamplePageValidation",
+      "keywordMethods": [
+        {
+          "name": "validateSamplePageElementPresent",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateSamplePageElementClickable",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateSamplePageElementTextnotNull",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateSamplePageElementText",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "validateSamplePageDropDownMenu",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

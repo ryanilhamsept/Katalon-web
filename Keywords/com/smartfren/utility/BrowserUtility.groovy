@@ -62,5 +62,4 @@ public class BrowserUtility {
 		//	WebUI.click(findTestObject('Object Repository/PQ_Play_QA/button/pop_up_badge_ok'))
 		//}
 	}
-
 }
